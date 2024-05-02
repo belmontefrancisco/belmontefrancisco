@@ -1,6 +1,6 @@
 - 👤 Hi, I’m Francisco Belmonte
 - 🎮 I’m interested in Game Development
-- 📖 I’m currently learning Programming at UTN (National Technological University, Argentina)
+- 📖 I’m currently studying Programming at UTN (National Technological University, Argentina)
 - ⚖️ I’m a Lawyer
 - 🌐 Languages: 🇪🇦 🇬🇧 🇮🇹
 
